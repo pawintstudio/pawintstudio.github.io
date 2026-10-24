@@ -1,2 +1,4 @@
 google.com, pub-2097953013016629, DIRECT, f08c47fec0942fa0
 facebook.com, 1595768918346039, DIRECT, c3e20eee3f780d68
+OWNERDOMAIN=pawintstudio.github.io
+ironsrc.com, 683483, DIRECT
